@@ -67,6 +67,16 @@ body {
     justify-content: center;
 
     position: relative;
+    color: white;
+    background-color: black;
+}
+
+.table {
+    color: white;
+}
+
+.table th {
+    color: #f05f40;
 }
 
 /* Page headers */
